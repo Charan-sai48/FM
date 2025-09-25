@@ -91,18 +91,12 @@ Output Waveform
 
 Tabulation
 
+![IMG-20250925-WA0016 1](https://github.com/user-attachments/assets/45e9d717-6354-49b8-9f61-9566127bdf42)
 
 
 Calculation
 
-
-
-Frequency Deviation Practical = 
-
-Modulation Index Practical	= 
-
-Modulation Index Theoretical	=
-
+<img width="700" height="400" alt="Screenshot 2025-09-25 135156" src="https://github.com/user-attachments/assets/e92a9743-27b6-40e7-9adc-5e10d30c952f" />
 
 
 RESULT:
