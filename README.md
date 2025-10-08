@@ -91,7 +91,8 @@ Output Waveform
 
 Tabulation
 
-![IMG-20250925-WA0016 1](https://github.com/user-attachments/assets/45e9d717-6354-49b8-9f61-9566127bdf42)
+![AC-4 tabulation](https://github.com/user-attachments/assets/5e809bc8-2b57-4407-ad21-f84fa80070cc)
+
 
 
 Calculation
